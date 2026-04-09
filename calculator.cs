@@ -11,5 +11,10 @@ class Calculator
 		Console.WriteLine("\n Press any key");
 		Console.ReadKey();
 	}
+	
+	static int Penambahan(int a, int b)
+	{
+		return a + b;
+	}
 
 }
